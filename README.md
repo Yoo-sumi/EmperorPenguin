@@ -79,6 +79,5 @@
 
 ##### 프로젝트 설명 및 시연 영상 #####
 
-[<img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="70%">](https://youtu.be/GPuxQT72S8g)
+[<img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="50%">](https://youtu.be/GPuxQT72S8g)
 
-<img src="C:\Users\오딧세이33\Desktop\황제 펭귄\media\메인.jpg" alt="메인" style="zoom: 33%;" />
