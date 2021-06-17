@@ -99,7 +99,7 @@
 
 <br/>
 
-### 소프트웨어 구조 - human tracking🏃‍♀️ ###
+### 🏃‍ 소프트웨어 구조 - human tracking♀️ ###
 
 <br/>
 <br/>
@@ -120,7 +120,7 @@
 
 <br/>
 
-### 소프트웨어 구조 - joystick🎮 ###
+### 🎮 소프트웨어 구조 - joystick ###
 
 <br/>
 
