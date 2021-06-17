@@ -51,32 +51,23 @@
 
 ***
 
-##### 소프트웨어 구조 #####
+##### 소프트웨어 구조 - human tracking#####
 
 ![image](https://user-images.githubusercontent.com/48851895/122440262-5a030e00-cfd7-11eb-976e-291bffd1ea3b.png)
+
 
 
 - human tracking에서 중심이 되는 노드는 play_drive이다. play_drive는 signal노드와 arduino_ultra노드에서 받은 값으로 속도 값을 결정한다. 또한 detect_person 노드로부터 사람의 위치를 받아, 조향각을 계산한다.
 결정된 속도와 조향각은 motor노드로 전달된다.
 
-1. signal 노드 : 안드로이드 애플리케이션 속에 존재한다. *AP모드*로 동작하는 메인 보드의 와이파이 신호세기를 측정하고, 메인보드와의 거리를 계산해 play_person노드에 전송한다. 이 값을 이용해 속도를 조절해 사용자와의 거리를 유지한다.
+***
 
-2. arduino_ultra 노드 : 초음파 센서 값을 play_drive 노드에 전송한다.
+##### 소프트웨어 구조 - joystick#####
 
-3. usb_cam 노드 : 차량의 카메라를 제어하여 실시간 이미지를 darknet_ros와 video_view노드로 전송한다.
+![image](https://user-images.githubusercontent.com/48851895/122443863-f11d9500-cfda-11eb-8a24-dc4166817215.png)
 
-4. darknet_ros 노드는 *YOLO 라이브러리*를 이용해 물체를 인식하고, 인식된 물체를 detect_person 노드에 전송한다.
+- 사용자가 안드로이드 앱을 이용해 차량을 조종할 수 있다.
 
-5. detect_person 노드는 인식된 물체 중 사람의 위치를 play_drive 노드에 전송한다. 이때, 위치는 이미지 상의 좌표 값을 의미한다. 
-
-
-##### 기대효과 #####
-
-![image](https://user-images.githubusercontent.com/67852426/122441086-2aa0d100-cfd8-11eb-9208-85af0f767587.png)
-
-##### 프로젝트 설명 및 시연 영상 #####
-
-[<img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="50%">](https://youtu.be/GPuxQT72S8g)
 
 
 
