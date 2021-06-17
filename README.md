@@ -69,6 +69,16 @@
 - 사용자가 안드로이드 앱을 이용해 차량을 조종할 수 있다.
 
 
+##### 기대효과 #####
+- 안심 귀가 로봇
+- 범죄좌 감시 시스템
+- 노인 돌봄 서비스
+- 스마트 장바구니
 
+![image](https://user-images.githubusercontent.com/67852426/122441086-2aa0d100-cfd8-11eb-9208-85af0f767587.png)
+
+##### 프로젝트 설명 및 시연 영상 #####
+
+[<img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="70%">](https://youtu.be/GPuxQT72S8g)
 
 <img src="C:\Users\오딧세이33\Desktop\황제 펭귄\media\메인.jpg" alt="메인" style="zoom: 33%;" />
