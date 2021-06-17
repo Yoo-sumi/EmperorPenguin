@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: detect_person
+Description: Description of detect_person
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/ssd_ext/ssd256/workspace/catkin_ws/build/gtest/googlemock/gtest/src -Wl,-rpath,/ssd_ext/ssd256/workspace/catkin_ws/build/gtest/googlemock/gtest/src -lpthread 

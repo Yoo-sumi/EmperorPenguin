@@ -1,0 +1,8 @@
+prefix=/home/hansung/workspace/catkin_ws/devel
+
+Name: measure_distance
+Description: Description of measure_distance
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:detect_person:measure_distance:motor:play_drive:ultrasonic:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/hansung/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hansung/workspace/catkin_ws/install -G Unix Makefiles
