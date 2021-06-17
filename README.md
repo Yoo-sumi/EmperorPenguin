@@ -70,7 +70,13 @@
 5. detect_person 노드는 인식된 물체 중 사람의 위치를 play_drive 노드에 전송한다. 이때, 위치는 이미지 상의 좌표 값을 의미한다. 
 
 
+##### 기대효과 #####
 
+![image](https://user-images.githubusercontent.com/67852426/122441086-2aa0d100-cfd8-11eb-9208-85af0f767587.png)
+
+##### 프로젝트 설명 및 시연 영상 #####
+
+[<img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="70%">](https://youtu.be/GPuxQT72S8g)
 
 
 
