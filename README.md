@@ -19,8 +19,9 @@
 이에 각광받는 자율주행기술을 실생활에 밀접한 기술로 확장하고자했다.
 
 
+![image](https://user-images.githubusercontent.com/48851895/122413504-63817b80-cfc1-11eb-92b7-bce9c1036e66.png)
 
-![image-20210617204802621](C:\Users\lg\AppData\Roaming\Typora\typora-user-images\image-20210617204802621.png)
+
 
 그리하여 자율 주행 기능에 휴먼 트랙킹 기술을 결합하여 사람을 따라가는 로봇을 만들어 스마트 장바구니, 범죄자 감시 시스템, 노인 돌봄 로봇, 안심 귀가 로봇 등 다양하게 활용 가능하도록 구현하고자 하였다.
 
@@ -37,12 +38,14 @@
 
 ##### 프로젝트 설계 #####
 
-![image-20210617205047246](C:\Users\lg\AppData\Roaming\Typora\typora-user-images\image-20210617205047246.png)
 
-메인 보드 TX2보드에는 우분투 18.04를 탑재하였다.
-
+![image](https://user-images.githubusercontent.com/48851895/122413562-6f6d3d80-cfc1-11eb-87d9-14f657c7ed72.png)
 
 
+
+##### 하드웨어 구조 #####
+
+![image](https://user-images.githubusercontent.com/48851895/122414325-020ddc80-cfc2-11eb-9425-f436d586e1b9.png)
 
 
 
