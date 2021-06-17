@@ -30,7 +30,7 @@
 
 <br/>
 
-![image](https://user-images.githubusercontent.com/48851895/122413504-63817b80-cfc1-11eb-92b7-bce9c1036e66.png)
+<img src="https://user-images.githubusercontent.com/48851895/122413504-63817b80-cfc1-11eb-92b7-bce9c1036e66.png" width="500" height="300">
 
 <br/>
 
