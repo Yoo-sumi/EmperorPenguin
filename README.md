@@ -11,7 +11,7 @@
 
 ***
 
-##### 프로젝트 배경 #####
+### 프로젝트 배경 ###
 
 구글의 웨이모와 테슬라, 애플까지 자율 주행에 대해 앞다투어 연구하고 있고, 우리나라 역시 2018년 과학기술정보통신부에서 4차 산업혁명 대응 우선 추진 분야로 자율 주행차를 선정하였다.
 
@@ -30,7 +30,7 @@
 
 
 
-##### 프로젝트 목표 #####
+### 프로젝트 목표 ###
 
 - 카메라를 이용해 사람을 인식한다.
 - 인식된 사람의 위치를 파악하여 주행한다.
@@ -43,7 +43,7 @@
 
 
 
-##### 프로젝트 설계 #####
+### 프로젝트 설계 ###
 
 
 ![image](https://user-images.githubusercontent.com/48851895/122413562-6f6d3d80-cfc1-11eb-87d9-14f657c7ed72.png)
@@ -54,7 +54,7 @@
 
 
 
-##### 하드웨어 구조 #####
+### 하드웨어 구조 ###
 
 ![image](https://user-images.githubusercontent.com/48851895/122439808-ed880f00-cfd6-11eb-947e-e7d19616e507.png)
 - Nvidia TX2를 메인보드로 하여 장착
@@ -67,7 +67,7 @@
 
 
 
-##### 소프트웨어 구조 - human tracking #####
+### 소프트웨어 구조 - human tracking ###
 
 ![image](https://user-images.githubusercontent.com/48851895/122440262-5a030e00-cfd7-11eb-976e-291bffd1ea3b.png)
 
@@ -82,7 +82,7 @@
 
 
 
-##### 소프트웨어 구조 - joystick #####
+### 소프트웨어 구조 - joystick ###
 
 ![image](https://user-images.githubusercontent.com/48851895/122443863-f11d9500-cfda-11eb-8a24-dc4166817215.png)
 
@@ -94,7 +94,7 @@
 
 
 
-##### 기대효과 #####
+### 기대효과 ###
 
 ![image](https://user-images.githubusercontent.com/67852426/122441086-2aa0d100-cfd8-11eb-9208-85af0f767587.png)
 
@@ -104,7 +104,7 @@
 
 
 
-##### 프로젝트 설명 및 시연 영상 #####
+### 프로젝트 설명 및 시연 영상 ###
 
 [<p align="center"><img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="50%">](https://youtu.be/GPuxQT72S8g)
 ***
