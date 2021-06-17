@@ -5,7 +5,8 @@
 ***
 
 
-<center><img src="https://user-images.githubusercontent.com/48851895/122412858-e2c27f80-cfc0-11eb-918c-3d76da6aaa9f.png" width="300" height="300"></center>
+<p align="center"><img src="https://user-images.githubusercontent.com/48851895/122412858-e2c27f80-cfc0-11eb-918c-3d76da6aaa9f.png" width="300" height="300"></p>
+
 
 
 
@@ -24,7 +25,9 @@
 그리하여 자율 주행 기능에 휴먼 트랙킹 기술을 결합하여 사람을 따라가는 로봇을 만들어 스마트 장바구니, 범죄자 감시 시스템, 노인 돌봄 로봇, 안심 귀가 로봇 등 다양하게 활용 가능하도록 구현하고자 하였다.
 
 
+
 ***
+
 
 
 ##### 프로젝트 목표 #####
@@ -34,7 +37,10 @@
 - 와이파이 신호로 사람과의 거리를 파악하여 일정 거리를 유지한다.
 - 안드로이드 디바이스로 로봇과 통신한다.
 
+
+
 ***
+
 
 
 ##### 프로젝트 설계 #####
@@ -43,7 +49,9 @@
 ![image](https://user-images.githubusercontent.com/48851895/122413562-6f6d3d80-cfc1-11eb-87d9-14f657c7ed72.png)
 
 
+
 ***
+
 
 
 ##### 하드웨어 구조 #####
@@ -54,7 +62,9 @@
    - 각각의 아두이노는 전자 변속기, 초음파 센서, 피에조 부저를 제어한다.
 
 
+
 ***
+
 
 
 ##### 소프트웨어 구조 - human tracking #####
@@ -67,7 +77,9 @@
 결정된 속도와 조향각은 motor노드로 전달된다.
 
 
+
 ***
+
 
 
 ##### 소프트웨어 구조 - joystick #####
@@ -77,7 +89,9 @@
 - 사용자가 안드로이드 앱을 이용해 차량을 조종할 수 있다.
 
 
+
 ***
+
 
 
 ##### 기대효과 #####
@@ -85,10 +99,12 @@
 ![image](https://user-images.githubusercontent.com/67852426/122441086-2aa0d100-cfd8-11eb-9208-85af0f767587.png)
 
 
+
 ***
+
 
 
 ##### 프로젝트 설명 및 시연 영상 #####
 
-[<center><img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="50%">](https://youtu.be/GPuxQT72S8g)
+[<p align="center"><img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="50%">](https://youtu.be/GPuxQT72S8g)
 
