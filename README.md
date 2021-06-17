@@ -1,6 +1,6 @@
 <h1>Human-Tracking Robot</h2>
 
-###### 휴먼 트래킹을 위한 자율 주행 자동차 제작 및 소프트웨어 구현 ######
+#### 휴먼 트래킹을 위한 자율 주행 자동차 제작 및 소프트웨어 구현 ####
 
 <br/>
 
@@ -10,38 +10,37 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/48851895/122412858-e2c27f80-cfc0-11eb-918c-3d76da6aaa9f.png" width="300" height="300"></p>
 
 
-<br />
 
-
-![구분선-removebg-preview](https://user-images.githubusercontent.com/67852426/122451898-9ccae300-cfe3-11eb-8260-44d2000d7f9c.png)
+![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
 
 
 
-<br/>
 
 ### 🎈 프로젝트 배경 ###
 
 <br />
-
+<br/>
 
 구글의 웨이모와 테슬라, 애플까지 자율 주행에 대해 앞다투어 연구하고 있고, 우리나라 역시 2018년 과학기술정보통신부에서 4차 산업혁명 대응 우선 추진 분야로 자율 주행차를 선정하였다.
 
+<br/>
+
 이에 각광받는 자율주행기술을 실생활에 밀접한 기술로 확장하고자했다.
 
+<br/>
 <br/>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/48851895/122413504-63817b80-cfc1-11eb-92b7-bce9c1036e66.png" width="700"></div>
 
 <br/>
+<br/>
 
 
 그리하여 자율 주행 기능에 휴먼 트랙킹 기술을 결합하여 사람을 따라가는 로봇을 만들어 스마트 장바구니, 범죄자 감시 시스템, 노인 돌봄 로봇, 안심 귀가 로봇 등 다양하게 활용 가능하도록 구현하고자 하였다.
 
-<br/>
 
 
-![구분선-removebg-preview](https://user-images.githubusercontent.com/67852426/122451898-9ccae300-cfe3-11eb-8260-44d2000d7f9c.png)
-
+![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
 <br/>
 
 ### 📈 프로젝트 목표 ###
@@ -59,7 +58,7 @@
 <br/>
 
 
-![구분선-removebg-preview](https://user-images.githubusercontent.com/67852426/122451898-9ccae300-cfe3-11eb-8260-44d2000d7f9c.png)
+![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
 
 <br/>
 
@@ -72,7 +71,7 @@
 
 <br/>
 
-![구분선-removebg-preview](https://user-images.githubusercontent.com/67852426/122451898-9ccae300-cfe3-11eb-8260-44d2000d7f9c.png)
+![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
 
 <br/>
 
@@ -95,7 +94,7 @@
 
 <br/>
 
-![구분선-removebg-preview](https://user-images.githubusercontent.com/67852426/122451898-9ccae300-cfe3-11eb-8260-44d2000d7f9c.png)
+![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
 
 <br/>
 
@@ -110,12 +109,12 @@
 
 
 
-✔  human tracking에서 중심이 되는 노드는 play_drive이다. play_drive는 signal노드와 arduino_ultra노드에서 받은 값으로 속도 값을 결정한다. 또한 detect_person 노드로부터 사람의 위치를 받아, 조향각을 계산한다.
+human tracking에서 중심이 되는 노드는 play_drive이다. play_drive는 signal노드와 arduino_ultra노드에서 받은 값으로 속도 값을 결정한다. 또한 detect_person 노드로부터 사람의 위치를 받아, 조향각을 계산한다.
 결정된 속도와 조향각은 motor노드로 전달된다.
 
 <br/>
 
-![구분선-removebg-preview](https://user-images.githubusercontent.com/67852426/122451898-9ccae300-cfe3-11eb-8260-44d2000d7f9c.png)
+![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
 
 
 <br/>
@@ -134,7 +133,7 @@
 
 
 
-![구분선-removebg-preview](https://user-images.githubusercontent.com/67852426/122451898-9ccae300-cfe3-11eb-8260-44d2000d7f9c.png)
+![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
 
 <br/>
 
@@ -147,17 +146,15 @@
 
 <br/>
 
-![구분선-removebg-preview](https://user-images.githubusercontent.com/67852426/122451898-9ccae300-cfe3-11eb-8260-44d2000d7f9c.png)
+![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
 
-
-<br/>
 
 ### 🎉 프로젝트 설명 및 시연 영상 ###
 
 <br/>
+<br/>
 
 [<p align="center"><img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="50%">](https://youtu.be/GPuxQT72S8g)
 
-<br/>
 
-![구분선-removebg-preview](https://user-images.githubusercontent.com/67852426/122451898-9ccae300-cfe3-11eb-8260-44d2000d7f9c.png)
+![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
