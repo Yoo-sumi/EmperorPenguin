@@ -72,10 +72,6 @@
 
 
 ##### 기대효과 #####
-- 안심 귀가 로봇
-- 범죄좌 감시 시스템
-- 노인 돌봄 서비스
-- 스마트 장바구니
 
 ![image](https://user-images.githubusercontent.com/67852426/122441086-2aa0d100-cfd8-11eb-9208-85af0f767587.png)
 
