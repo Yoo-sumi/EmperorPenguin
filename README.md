@@ -2,14 +2,14 @@
 
 ###### 휴먼 트래킹을 위한 자율 주행 자동차 제작 및 소프트웨어 구현 ######
 
-***
+
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/48851895/122412858-e2c27f80-cfc0-11eb-918c-3d76da6aaa9f.png" width="300" height="300"></p>
 
 
 
-
+***
 
 ##### 프로젝트 배경 #####
 
@@ -107,4 +107,4 @@
 ##### 프로젝트 설명 및 시연 영상 #####
 
 [<p align="center"><img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="50%">](https://youtu.be/GPuxQT72S8g)
-
+***
