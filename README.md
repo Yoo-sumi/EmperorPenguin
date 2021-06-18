@@ -131,6 +131,12 @@ human tracking에서 중심이 되는 노드는 play_drive이다. play_drive는 
 
 <br/>
 
+✔ YOLO 사람 인식 화면
+<div align="center"><img src="https://user-images.githubusercontent.com/48851895/122504507-69b13f80-d035-11eb-8e4a-6e157a652866.png" width="700"></div>
+
+
+
+
 
 
 ![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
