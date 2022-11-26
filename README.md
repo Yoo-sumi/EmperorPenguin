@@ -17,9 +17,11 @@
 <br/>
 <br/>
 ### 아래는 안드로이드 디바이스를 통해 RC카를 조종하는 시연 영상입니다.
+
 [![Video Label](https://velog.velcdn.com/images/hugbee/post/6aa8f0dd-1513-4694-8fbe-86534f079394/image.png)](https://youtu.be/cnpP0VMu9S8)
 
 ### 아래는 프로젝트 설명 영상입니다.
+
 [![Video Label](https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png)](https://www.youtube.com/watch?v=GPuxQT72S8g)
 
 ![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
