@@ -14,13 +14,12 @@ public class Talker extends AbstractNodeMain {
         topic_name = "chatter";
     }
 
-    public Talker(String topic)
-    {
+    public Talker(String topic) {
         topic_name = topic;
     }
 
-    public void setMessage(String message){
-        this.message=message;
+    public void setMessage(String message) {
+        this.message = message;
     }
 
     @Override
@@ -32,8 +31,7 @@ public class Talker extends AbstractNodeMain {
     public void onStart(final ConnectedNode connectedNode) {
         final Publisher<std_msgs.String> publisher =
                 connectedNode.newPublisher(topic_name, std_msgs.String._TYPE);
-        // This CancellableLoop will be canceled automatically when the node shuts
-        // down.
+
         connectedNode.executeCancellableLoop(new CancellableLoop() {
             private int sequenceNumber;
 
@@ -47,7 +45,6 @@ public class Talker extends AbstractNodeMain {
                 std_msgs.String str = publisher.newMessage();
                 str.setData(message);
                 publisher.publish(str);
-                //Thread.sleep(1000);
             }
         });
     }

@@ -41,14 +41,12 @@ float duration4;
 float distance4;
 
 void setup() {
-  // put your setup code here, to run once:
   nh.initNode();
   nh.advertise(wave1);
   nh.advertise(wave2);
   nh.advertise(wave3);
   nh.advertise(wave4);
-  
-  //Serial.begin(9600);
+
   pinMode(trigPin1,OUTPUT);
   pinMode(echoPin1,INPUT);
   pinMode(trigPin2,OUTPUT);
@@ -67,11 +65,6 @@ void ultrasonic1(){
 
   distance1=((float)(340*duration1)/10000)/2;
 
-  /*Serial.print("Duration1: ");
-  Serial.print(duration1);
-  Serial.print("\nDistance1: ");
-  Serial.print(distance1);
-  Serial.println("cm\n");*/
 }
 void ultrasonic2(){
   digitalWrite(trigPin2,HIGH);
@@ -82,11 +75,6 @@ void ultrasonic2(){
 
   distance2=((float)(340*duration2)/10000)/2;
 
-  /*Serial.print("Duration2: ");
-  Serial.print(duration2);
-  Serial.print("\nDistance2: ");
-  Serial.print(distance2);
-  Serial.println("cm\n");*/
 }
 void ultrasonic3(){
   digitalWrite(trigPin3,HIGH);
@@ -97,11 +85,6 @@ void ultrasonic3(){
 
   distance3=((float)(340*duration3)/10000)/2;
 
-  /*Serial.print("Duration3: ");
-  Serial.print(duration3);
-  Serial.print("\nDistance3: ");
-  Serial.print(distance3);
-  Serial.println("cm\n");*/
 }
 
 void ultrasonic4(){
@@ -112,16 +95,9 @@ void ultrasonic4(){
   duration4=pulseIn(echoPin4,HIGH);
 
   distance4=((float)(340*duration4)/10000)/2;
-
-  /*Serial.print("Duration3: ");
-  Serial.print(duration3);
-  Serial.print("\nDistance3: ");
-  Serial.print(distance3);
-  Serial.println("cm\n");*/
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   ultrasonic1();
   ultrasonic2();
   ultrasonic3();

@@ -15,13 +15,12 @@ public class Rotate extends AbstractNodeMain {
         topic_name = "chatter";
     }
 
-    public Rotate(String topic)
-    {
+    public Rotate(String topic) {
         topic_name = topic;
     }
 
-    public void setMessage(Integer message){
-        this.message=message;
+    public void setMessage(Integer message) {
+        this.message = message;
     }
 
     @Override
@@ -33,8 +32,7 @@ public class Rotate extends AbstractNodeMain {
     public void onStart(final ConnectedNode connectedNode) {
         final Publisher<std_msgs.Int32> publisher =
                 connectedNode.newPublisher(topic_name, std_msgs.Int32._TYPE);
-        // This CancellableLoop will be canceled automatically when the node shuts
-        // down.
+
         connectedNode.executeCancellableLoop(new CancellableLoop() {
             private int sequenceNumber;
 
@@ -48,7 +46,6 @@ public class Rotate extends AbstractNodeMain {
                 std_msgs.Int32 val = publisher.newMessage();
                 val.setData(message);
                 publisher.publish(val);
-                //Thread.sleep(1000);
             }
         });
     }

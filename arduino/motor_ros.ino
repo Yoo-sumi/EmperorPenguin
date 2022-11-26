@@ -20,7 +20,7 @@ void motor_cb(const motor::motor &msg)
   nh.logwarn(my_log);
   
   motorAngle.write(msg.angle);
-  motorThrust.write(msg.thrust); //msg.speed; it should be modified.
+  motorThrust.write(msg.thrust);
 }
 
 ros::Subscriber<motor::motor> sub("motor", motor_cb);
