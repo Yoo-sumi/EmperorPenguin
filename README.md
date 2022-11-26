@@ -160,6 +160,6 @@ human tracking에서 중심이 되는 노드는 play_drive이다. play_drive는 
 <br/>
 <br/>
 
-[![Video Label](https://velog.velcdn.com/images/hugbee/post/6aa8f0dd-1513-4694-8fbe-86534f079394/image.png)](blob:https://velog.io/03e3c2e0-25c3-4882-987b-a6a5505a5f82)
+[![Video Label](https://velog.velcdn.com/images/hugbee/post/6aa8f0dd-1513-4694-8fbe-86534f079394/image.png)](https://velog.io/03e3c2e0-25c3-4882-987b-a6a5505a5f82)
 
 [![Video Label](https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png)](https://www.youtube.com/watch?v=GPuxQT72S8g)
