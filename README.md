@@ -30,6 +30,7 @@
 <br/>
 <br/>
 
+<img src="blob:https://velog.io/03e3c2e0-25c3-4882-987b-a6a5505a5f82" width="40%"/>
 <div align="center"><img src="https://user-images.githubusercontent.com/48851895/122413504-63817b80-cfc1-11eb-92b7-bce9c1036e66.png" width="700"></div>
 
 <br/>
@@ -159,5 +160,7 @@ human tracking에서 중심이 되는 노드는 play_drive이다. play_drive는 
 
 <br/>
 <br/>
+
+<img src="https://velog.io/03e3c2e0-25c3-4882-987b-a6a5505a5f82" width="40%"/>
 
 [![Video Label](https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png)](https://www.youtube.com/watch?v=GPuxQT72S8g)
