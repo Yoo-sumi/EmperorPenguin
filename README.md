@@ -159,9 +159,4 @@ human tracking에서 중심이 되는 노드는 play_drive이다. play_drive는 
 
 <br/>
 <br/>
-
-[<p align="center"><img src="https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png" width="50%">](https://youtu.be/GPuxQT72S8g)
-
-
-![ㄴ-removebg-preview](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)
-[![Video Label](https://user-images.githubusercontent.com/67852426/122454035-dd2b6080-cfe5-11eb-9460-57b8e5b799a9.png)](https://www.youtube.com/watch?v=GPuxQT72S8g)
+[![Video Label](https://user-images.githubusercontent.com/67852426/122442708-d0087480-cfd9-11eb-89da-965ae0c7545c.png)](https://www.youtube.com/watch?v=GPuxQT72S8g)
